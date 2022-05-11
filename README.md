@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sourabhkv
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning JavaScriptp
-- 💞️ I’m looking to collaborate on ytdl
+- 💞️ I’m looking to collaborate on [ytdl](https://github.com/sourabhkv/ytdl)
 - 📫 How to reach me 
 
 <!---
