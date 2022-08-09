@@ -2,6 +2,7 @@
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on [ytdl](https://github.com/sourabhkv/ytdl)
+- <a href="https://t.me/sourabhkv"><img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flate&logo=telegram&logoColor=white"></a><br>
 
 <!---
 sourabhkv/sourabhkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
