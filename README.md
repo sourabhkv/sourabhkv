@@ -32,11 +32,12 @@ Other Stuff<br>
 </p>
 
 
+### GitHub profile Trophy
+  ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&theme=chalk)
 <details>
   <summary>More stats</summary>
   
-  ### GitHub profile Trophy
-  ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&theme=chalk)
+  
   
   ### My GitHub Unwrapped
   https://user-images.githubusercontent.com/55890376/210073665-04f149ad-57f3-453a-a3e1-e22f563357b3.mp4
