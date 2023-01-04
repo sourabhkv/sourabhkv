@@ -38,8 +38,10 @@ Other Stuff<br>
 ### GitHub profile Trophy
   ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&theme=chalk)
 <details>
-  <summary>More stats</summary>
-  
+  <summary>More..</summary>
+  Mastering Minesweeper<br>
+  40 ⛏️ - 61s<br>
+  99 ⛏️ - 210s<br>
   
   
   ### My GitHub Unwrapped
