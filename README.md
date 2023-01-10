@@ -23,27 +23,36 @@ Other Stuff<br>
 <br>
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
+
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://github-readme-stats.vercel.app/api?username=sourabhkv&show_icons=true&theme">
+<img alt="GitHub release (latest by date)" src="https://github-readme-stats.vercel.app/api?username=sourabhkv">
 </p>
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkv&layout=compact">
+<img alt="GitHub release (latest by date)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkv">
 </p>
 
 ### Connect with me
-<a href="mailto:sourabhkv96@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
-<a href="https://in.linkedin.com/in/sourabhkv96"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://t.me/sourabhkv"><img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
+<a href="mailto:sourabhkv96@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://in.linkedin.com/in/sourabhkv96"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/sourabhkv"><img alt="GitHub release (latest by date)" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ### GitHub profile Trophy
   ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&theme=chalk)
 <details>
   <summary>More..</summary>
   Mastering Minesweeper<br>
+  10 ⛏️ - 7s<br>
   40 ⛏️ - 61s<br>
   99 ⛏️ - 210s<br>
   
   
   ### My GitHub Unwrapped
   https://user-images.githubusercontent.com/55890376/210073665-04f149ad-57f3-453a-a3e1-e22f563357b3.mp4
+  
+  ### Support me
+  If you have liked my work and want to support please consider donating.<br>
+  It will be really helpful and appreciated if you donate. Any amount is appreciated.<br><br>
+  <a href="https://github.com/sourabhkv/ytdl#support-us"><img alt="python" src="https://img.shields.io/badge/Phonepe-54039A?style=flat&logo=phonepe&logoColor=white" ></a>
+  : `sourabhkv@upi`
+  
 </details>
