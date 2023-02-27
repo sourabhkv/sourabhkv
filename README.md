@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @sourabhkv
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning C# , Pandas, ML , Java
+<h1 align="center">Greetings!👋 Hi, I’m @sourabhkv</h1>
+
+- I am currently pursuing B.tech from Bangalore Institute of Technology, with a specialization in Computer Science and Engineering. As of now, I am in my 2nd year of studies and thoroughly enjoying my academic journey.
+
+- Apart from my academic pursuits, I am a full-time Maintainer of [@ytdl-official](https://github.com/ytdl-official) to scale [ytdl](https://github.com/sourabhkv/ytdl). Additionally, I serve as the Domain Head of Data Science [@Sdi-bit](https://github.com/SDI-bit), where I get to apply my knowledge of data science and analytics to real-world problems.
+
+- I am passionate about developing technology and finding innovative solutions to complex problems which people face in real life. I strongly believe in sharing knowledge and building a supportive community around it. I am excited to see what the future holds, and I look forward to making a positive impact through my work and make world better.
+
 - 💞️ I’m looking to collaborate on [ytdl](https://github.com/sourabhkv/ytdl) , [degoogled-forms](https://github.com/sourabhkv/degoogled-forms)
-- Exploring Android , Linux
-
-
-
-
+- 👀 I’m interested in python programming
+- 🔭Exploring Android , Linux
 <!---
 sourabhkv/sourabhkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,19 +24,22 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)<br>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br>
 
 </div>
 
+### 🌱 Work in Progress ▓▓▓░░░░░░
+
+<div align="center">
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+</div>
 
 
 ### Connect with me
@@ -55,7 +60,7 @@ You can click the Preview link to take a look at your changes.
     
   ![sourabhkv GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhkv&theme=dark)<br>
   ![GitHub Streak](https://streak-stats.demolab.com/?user=sourabhkv&theme=dark)<br>
-  ![GitHub langs](https://raw.githubusercontent.com/sourabhkv/github-stats/master/generated/languages.svg#gh-dark-mode-only)<br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkv&layout=compact&theme=chalk)<br>
   [![trophy](https://github-profile-trophy.vercel.app/?username=sourabhkv&margin-w=6&theme=chalk&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
   
@@ -103,13 +108,13 @@ You can click the Preview link to take a look at your changes.
   ### Support me
   If you have liked my work and want to support please consider donating.<br>
   It will be really helpful and appreciated if you donate. Any amount is appreciated.<br><br>
-  <a href="https://github.com/sourabhkv/ytdl#support-us"><img alt="python" src="https://img.shields.io/badge/Phonepe-54039A?style=flat&logo=phonepe&logoColor=white" ></a>
+  <a href="https://sourabhkv.github.io/support"><img alt="python" src="https://img.shields.io/badge/Phonepe-54039A?style=flat&logo=phonepe&logoColor=white" ></a>
   : `sourabhkv@upi`<br>
   [QR code](https://sourabhkv.github.io/support)
 
   
-  ### Extraas
-  Mastering Minesweeper<br>
+  ### ⚡Extraas
+  🚩 Mastering Minesweeper<br>
   10 💣 -   7s<br>
   40 💣 -  56s<br>
   99 💣 - 194s<br>
