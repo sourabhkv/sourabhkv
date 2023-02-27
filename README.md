@@ -1,4 +1,4 @@
-<h1 align="center">Greetings!👋 Hi, I’m @sourabhkv</h1>
+<h1 align="center">Greetings!👋 I’m @sourabhkv</h1>
 
 - I am currently pursuing B.tech from Bangalore Institute of Technology, with a specialization in Computer Science and Engineering. As of now, I am in my 2nd year of studies and thoroughly enjoying my academic journey.
 
@@ -13,8 +13,8 @@
 sourabhkv/sourabhkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ![](https://komarev.com/ghpvc/?username=sourabhkv&color=red)
+
 
 ### Technologies / Tools
 
@@ -35,10 +35,12 @@ You can click the Preview link to take a look at your changes.
 ### 🌱 Work in Progress ▓▓▓░░░░░░
 
 <div align="center">
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  
 </div>
 
 
