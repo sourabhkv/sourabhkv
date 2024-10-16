@@ -1,12 +1,12 @@
 <h1 align="center">Greetings!👋 I’m @sourabhkv</h1>
 
-- I am currently pursuing B.tech from Bangalore Institute of Technology, with a specialization in Computer Science and Engineering. As of now, I am in my 2nd year of studies and thoroughly enjoying my academic journey.
+- I am currently pursuing B.E. from Bangalore Institute of Technology, with a specialization in Computer Science and Engineering. As of now, I am in my final of studies and thoroughly enjoying my academic journey.
 
-- Apart from my academic pursuits, I am a full-time Maintainer of [@ytdl-official](https://github.com/ytdl-official) to scale [ytdl](https://github.com/sourabhkv/ytdl). Additionally, I serve as the Domain Head of Data Science [@Sdi-bit](https://github.com/SDI-bit), where I get to apply my knowledge of data science and analytics to real-world problems.
+- Apart from my academic pursuits, I am Beta [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/20672ad0-9b5d-431c-a318-fad3685ead59?wt.mc_id=studentamb_264449) Additionally, I serve as the President [@Sdi-bit](https://github.com/SDI-bit).
 
 - I am passionate about developing technology and finding innovative solutions to complex problems which people face in real life. I strongly believe in sharing knowledge and building a supportive community around it. I am excited to see what the future holds, and I look forward to making a positive impact through my work and make world better.
 
-- 💞️ I’m looking to collaborate on [ytdl](https://github.com/sourabhkv/ytdl) , [degoogled-forms](https://github.com/sourabhkv/degoogled-forms)
+- 💞️ I’m looking to collaborate on Azure , GenAI
 - 👀 I’m interested in python programming
 - 🔭Exploring Android , Linux
 <!---
@@ -22,13 +22,20 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br>
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -38,7 +45,6 @@ You can click the Preview link to take a look at your changes.
   
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
   
 </div>
@@ -70,21 +76,19 @@ You can click the Preview link to take a look at your changes.
   
 </details>
 
-<details>
-  <summary> Projects</summary>
-  
-  
-  | X | Repo | Target Platform | Description | Language | Stats |
-  |:---:|:---:|:---:|---|:---:|:---:|
-  |1|[ytdl](https://github.com/sourabhkv/ytdl)|![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)|A GUI web media downloader program that runs on top of youtube-dl/yt-dlp and ffmpeg to download videos and audio. GUI port of [yt-dlp](https://github.com/yt-dlp/yt-dlp) | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) | ![GitHub forks](https://img.shields.io/github/forks/sourabhkv/ytdl?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/sourabhkv/ytdl?style=social) <br> ![GitHub all releases](https://img.shields.io/github/downloads/sourabhkv/ytdl/total?style=flat) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/sourabhkv/ytdl/latest/total?style=flat) |
-  |2|[Webster](https://github.com/sourabhkv/Webster)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)| Browser made using PySide2 , Chromium 92.x | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![GitHub last commit](https://img.shields.io/github/last-commit/sourabhkv/Webster) |
-  |3|[webview2browser](https://github.com/sourabhkv/webview2browser)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)| Webbrowser built using webview2 , porting Edge features for Windows 7,8 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) | ![GitHub last commit](https://img.shields.io/github/last-commit/sourabhkv/webview2browser) |
-  |4|[openkv_project](https://github.com/sourabhkv/openkv_project) , [iris](https://github.com/sourabhkv/iris)| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) | Catalina voice assistant ; using Wolframalpha , tkinter, dlib and more.. | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![GitHub Repo stars](https://img.shields.io/github/stars/sourabhkv/openkv_project?style=social)<br> ![GitHub last commit](https://img.shields.io/github/last-commit/sourabhkv/openkv_project)  |
-  |5|[degoogle-forms](https://github.com/sourabhkv/degoogle-forms)|![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) | Start a server from scratch ,handle every everything URL request ,GET request, POST request, manage data , clean , analyse it without google forms. [#degoogled](https://github.com/topics/degoogle)<br>Attempt to make google forms without google. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |![GitHub Repo stars](https://img.shields.io/github/stars/sourabhkv/degoogled-forms?style=social) <br> ![GitHub last commit](https://img.shields.io/github/last-commit/sourabhkv/degoogle-forms)|
-</details>
-  
+### Projects
+| Repo | Description | Language / Tools |
+|:---:|---|:---:|
+|[ytdl](https://github.com/sourabhkv/ytdl)|A GUI web media downloader program that runs on top of youtube-dl/yt-dlp and ffmpeg to download videos and audio. GUI port of [yt-dlp](https://github.com/yt-dlp/yt-dlp) <br><br> ![GitHub forks](https://img.shields.io/github/forks/sourabhkv/ytdl?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/sourabhkv/ytdl?style=social) ![GitHub all releases](https://img.shields.io/github/downloads/sourabhkv/ytdl/total?style=flat) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/sourabhkv/ytdl/latest/total?style=flat) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+|[LLM_review_API](https://github.com/sourabhkv/LLM_review_API) | This project is a FastAPI-based web scraper designed to extract and format reviews from a given webpage. Using Selenium for web scraping and OpenAI's API for processing, it outputs structured JSON data.| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
+| [PostgresRAG](https://github.com/sourabhkv/PostgresRAG) | The PostgresRAG application enables users to search for places using natural language processing to generate SQL queries executed on a PostgreSQL database, displaying results in an interactive table with map previews. It also features a real-time chat interface powered by the Azure OpenAI API, allowing seamless conversation with an AI model. | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
+| [Cloud9](https://github.com/sourabhkv/cloud9) | Cloud9 is a scalable cloud storage solution built with Django, utilizing Azure Container and App Services. It features automated deployment, SSH access for secure operations, and robust user authentication, ensuring data encryption and secure file transfers via FTP. | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
+| [VidCrypt](https://github.com/sourabhkv/VidCrypt) | Vidcrypt allows users to convert any file into an encrypted video and retrieve the original file from it. The application encodes file bytes as grayscale images, creating a lossless video, with decoding achieved by reading each video frame. | ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
 
-
+  
+### Blogs
+- [Exploring Windows on ARM: The Future of Computing](https://techcommunity.microsoft.com/t5/educator-developer-blog/exploring-windows-on-arm-the-future-of-computing/ba-p/4260186?wt.mc_id=studentamb_264449)
+- [Integrating Django with Azure SQL](https://techcommunity.microsoft.com/t5/educator-developer-blog/integrating-azure-sql-with-django-a-step-by-step-guide/ba-p/4254073?wt.mc_id=studentamb_264449)
 
 
 <details>
